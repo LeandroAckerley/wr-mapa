@@ -1,0 +1,1 @@
+(()=>{"use strict";document.addEventListener("DOMContentLoaded",function(){const t=document.getElementById("btnEmpezar");t&&t.addEventListener("click",function(){window.location.href="salas.html"})})})();
